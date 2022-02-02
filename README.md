@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Pemandangan_Dua_Gunung.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pemandangan_Dua_Gunung.png/1024px-Pemandangan_Dua_Gunung.png)
 
 ### Hi there 👋
 
