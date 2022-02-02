@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Pemandangan_Dua_Gunung.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Indonesian Wikipedia
