@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on Indonesian Wikipedia
 - 🌱 I’m currently learning LaTex and R.
 - 📫 How to reach me: 
-     * Meta-wiki and Indonesian Wikipedia (For something related to Wikipedia)
+     * [Meta-wiki](https://meta.m.wikimedia.org/wiki/User:NawanP) and [Indonesian Wikipedia](https://id.m.wikipedia.org/wiki/Pembicaraan_Pengguna:NawanP) (For something related to Wikipedia)
      * My email address.
 
